@@ -1,5 +1,20 @@
 Sorting algorithms 
 
+* Mergesort
+ 
+* Heapsort
+ 
+* Quicksort
+ 
+* Quicksort (Regular quick sort* and quick sort using 3 medians)
+
+* Insertion sort
+
+* Selection sort
+
+* Bubble sort
+
+
 project1.py file :
 
 This file contains the code. The language it is written is python 3.
