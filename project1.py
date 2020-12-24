@@ -1,10 +1,3 @@
-"""
-2208-CSE-5311-002-DSGN & ANLY ALGORITHMS
-Project 1 - sorting algorithms 
-Name : Sai Spandana Gali
-ID : 1001831591
-
-"""
 
 import time
 import random
